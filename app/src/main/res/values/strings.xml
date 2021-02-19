@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRoomProjectCURD</string>
+    <string name="submit">Submit</string>
+    <string name="age">Age</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+</resources>
